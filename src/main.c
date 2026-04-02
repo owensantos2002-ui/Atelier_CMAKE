@@ -31,13 +31,6 @@ int main(int argc, char *argv[]){
 	else {printf("Erreur de parametres");}
 	return 0;
 }
-#include <stdio.h>
-#include "calculator.h"
 
-int main() {
-    int val = 5;
-    printf("car(%d) = %d\n", val, car(val));
-    return 0;
-}
 
 		
